@@ -192,7 +192,7 @@ setAmount(0)
                 </div>
               )}
             </div>
-            <div className=" mt-6 mx-auto ml-5 mb-[15px] w-[90%]  bg-[#675AFE] text-white h-[46px] rounded pt-2 pl-[85px] font-semibold cursor-pointer transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-blue-500 duration-300 ...">
+            <div className=" mt-6 mx-auto ml-5   mb-[15px] w-[90%]  bg-[#675AFE] text-white h-[46px] rounded pt-2 pl-[85px] font-semibold cursor-pointer hover:-translate-y-1 hover:scale-100 hover:bg-blue-500 duration-300 ...">
               <button onClick={() => setGet(false)} className="outline-none">
                 Get Exchange Rate
               </button>
